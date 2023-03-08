@@ -8,7 +8,7 @@ class MyDocument extends Document {
     let title = "Dream Room Generator";
 
     return (
-      <Html lang="en">
+      <Html lang="vi">
         <Head>
           <link rel="icon" href="/favicon.ico" />
           <meta name="description" content={description} />
